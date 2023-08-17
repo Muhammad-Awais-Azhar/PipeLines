@@ -38,12 +38,12 @@ namespace SVX.Infrastructure.Seed
                 {
                     FirstName = "Admin",
                     LastName = "User",
-                    UserName = "admin@codeninjaconsulting.com",
-                    NormalizedUserName = "ADMIN@CODENINJACONSULTING.COM",
-                    Email = "admin@codeninjaconsulting.com",
-                    NormalizedEmail = "ADMIN@CODENINJACONSULTING.COM",
+                    UserName = "admin@jj.com",
+                    NormalizedUserName = "ADMIN@JJ.COM",
+                    Email = "admin@jj.com",
+                    NormalizedEmail = "ADMIN@JJ.COM",
                     EmailConfirmed = true,
-                    PasswordHash = "AQAAAAEAACcQAAAAEBtveRbD+vwmmzihdG6w+27O/dZK9cKp0e/yFsCOrEFkjyYk4z/Oi7votZyqYRQ6vg==",
+                    PasswordHash = "AQAAAAEAACcQAAAAEDuRB+2iYtxnl1Q3u1RAi81ehiRbkan5mn2YtVYlzcq7qazoqX4ZDBtJa+IPr1q9vg==",
                     SecurityStamp = "6JQRPL67KEFRJPYVYR44JRLHDKSQ4XUW",
                     ConcurrencyStamp = "2a95b5ff-1f34-4560-95b0-7c04c3a9822f"
                 };
