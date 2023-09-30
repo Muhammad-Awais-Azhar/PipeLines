@@ -40,6 +40,6 @@ deploy_to_firebase:
     - firebase deploy --only hosting --token $FIREBASE_TOKEN
   only:
     - frontend-fix
-    - main
+    - dev
 
 
